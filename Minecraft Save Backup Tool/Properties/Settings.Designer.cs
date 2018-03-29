@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MJR_Mods_Minecraft_Save_Backup_Tool.Properties
+namespace Minecraft_Save_Backup_Tool.Properties
 {
 
 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MJR_Mods_Minecraft_Save_Backup_Tool.Properties
+namespace Minecraft_Save_Backup_Tool.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace MJR_Mods_Minecraft_Save_Backup_Tool.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MJR_Mods_Minecraft_Save_Backup_Tool.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Minecraft_Save_Backup_Tool.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

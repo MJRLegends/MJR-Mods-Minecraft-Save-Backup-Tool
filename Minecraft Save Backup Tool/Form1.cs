@@ -11,7 +11,7 @@ using System.IO;
 using System.IO.Compression;
 using Ionic.Zip;
 
-namespace MJR_Mods_Minecraft_Save_Backup_Tool
+namespace Minecraft_Save_Backup_Tool
 {
     public partial class Form1 : DevComponents.DotNetBar.Metro.MetroForm
     {

@@ -1,4 +1,4 @@
-﻿namespace MJR_Mods_Minecraft_Save_Backup_Tool
+﻿namespace Minecraft_Save_Backup_Tool
 {
     partial class Form1
     {
@@ -147,7 +147,7 @@
             this.MaximumSize = new System.Drawing.Size(595, 366);
             this.MinimumSize = new System.Drawing.Size(595, 366);
             this.Name = "Form1";
-            this.Text = "MJR Mods - Minecraft Save Backup Tool v1.0.0";
+            this.Text = " Minecraft Save Backup Tool v1.0.0 - by MJRLegends";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
